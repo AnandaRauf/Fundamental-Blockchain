@@ -5,9 +5,7 @@ Welcome to Fundamental Blockchain code in Python ^-^.
 
 I'm create code python fundamental blockhain for all people in the world knows.
 
-I'am just give a source code without teory detailed about Blockchain Technology.
-
-You want teory detailed about Blockchain go to Github my friend on social media Facebook,Twitter : github.com/gungunfebrianza.
+You want teory detailed about Blockchain : https://github.com/AnandaRauf/Blockchain-Cryptocurrency-Industry-4.0.
 
 Contribute project / Open project ? :
 
@@ -19,9 +17,9 @@ Indonesian :
 
 Selamat data di Fundamental Blockhain kode di Python.
 
-Saya buat fundamental ini, hanya codenya dan fungsi-fungsi masing syntax dengan memakai syntax komentar Python (syntax hastag).
+Saya buat kode fundamental Blockhain di Python dan fungsi-fungsi masing syntax dengan memakai syntax komentar Python (syntax hastag).
 
-Jika,ingin teori lengkap detail tentang Blockhain Technology, kunjungi teman saya di sosial media Facebook,dan Twitter, pergi ke github dia : github.com/gungunfebrianza.
+Jika,ingin teori lengkap detail tentang Teknolgi Blockhain : https://github.com/AnandaRauf/Blockchain-Cryptocurrency-Industry-4.0.
 
 Kontribusi project / buka project ? :
 
